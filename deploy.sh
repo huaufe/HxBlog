@@ -18,8 +18,8 @@ git add -A
 git commit -m 'deploy'
 
 git config --global http.sslVerify false
-git config --global --unset http.proxy
-git config --global --unset https.proxy
+# git config --global --unset http.proxy
+# git config --global --unset https.proxy
 
 # 如果你想要部署到 https://USERNAME.github.io
 # git push -f git@github.com:USERNAME/USERNAME.github.io.git master
