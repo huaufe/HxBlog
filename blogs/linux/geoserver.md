@@ -1,7 +1,12 @@
 ---
 title: geoserver发布乱码问题
-date: 2023-01-05
+date: 2023-02-08
+tags:
+ - geoserver
+categories:
+ -  linux
 ---
+
 
 ::: tip 介绍
 1. geoserver显示乱码；<br>

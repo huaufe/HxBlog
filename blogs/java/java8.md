@@ -1,6 +1,10 @@
 ---
 title: java8
-date: 2023-01-04
+date: 2023-2-8
+tags:
+ - io
+categories:
+ -  java
 ---
 
 ::: tip 介绍
