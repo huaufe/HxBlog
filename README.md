@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 路漫漫其修远兮，吾将上下而求索
+tagline: I am just a sunflower, waiting for my only sunshine.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -25,3 +25,4 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
+

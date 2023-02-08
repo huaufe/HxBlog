@@ -1,13 +1,15 @@
 module.exports = {
   "title": "",
   "description": "",
-  "dest": "./docs/.vuepress/dist",
+  "dest": "./dist",
+  "base":'/HxBlog/',  
+  
   "head": [
     [
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "/avatar.png"
       }
     ],
     [
@@ -74,10 +76,10 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
+        "title": "淡泊明志，宁静致远",
+        "desc": "I am just a sunflower, waiting for my only sunshine.",
+        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "link": "https://vuepress-theme-reco.recoluan.com"
       },
       {
         "title": "vuepress-theme-reco",
@@ -90,7 +92,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "",
+    "author": "胡兴",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
     "startYear": "2017"

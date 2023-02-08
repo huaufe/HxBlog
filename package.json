@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
-    "deploy": "bash deploy.sh",
+    
     "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "deploy": "bash deploy.sh"
+
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "vuepress": "1.9.7",
     "vuepress-theme-reco": "1.6.16"
   },
