@@ -1,4 +1,7 @@
 # ```
 # "deploy": "gh-pages -d dist",
 # "deploy:build": "npm run build && gh-pages -d dist"
+
+# "deploy:build": "npm run build && npm run deploy"
+
 # ```

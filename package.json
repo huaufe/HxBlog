@@ -6,7 +6,8 @@
     
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build .",
-    "deploy": "bash deploy.sh"
+    "deploy": "bash deploy.sh",
+    "deploy:build": "npm run build && npm run deploy"
 
   },
   "devDependencies": {

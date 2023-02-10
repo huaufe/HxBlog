@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "",
-  "description": "",
+  "title": "湖心亭看雪",
+  "description": "心静",
   "dest": "./dist",
   "base":'/HxBlog/',  
   
